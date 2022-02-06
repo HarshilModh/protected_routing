@@ -14,6 +14,7 @@ useEffect(() => {
   
   return (
     <div>
+      Hello
         <Routes>
         {!user &&(
           <>
